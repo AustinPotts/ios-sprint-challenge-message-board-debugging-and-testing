@@ -12,3 +12,6 @@ Bug #4. Missing Resume on Data Task for createMessagethread
 Fix: Added '.resume()'
 
 
+Bug #5. Send Button does not work properly. No Action called.
+
+Bug #6. Typo Error on segue for 'AddMessage'
